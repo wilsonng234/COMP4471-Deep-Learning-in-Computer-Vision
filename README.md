@@ -1,4 +1,4 @@
-# COMP4471-Deep-Learning-in-Computer-Vision
+# COMP4471-Deep Learning in Computer Vision
 HKUST COMP4471 Deep Learning in Computer Vision - Assignment Repository  
 Credit: [CS231n](http://cs231n.stanford.edu/) at Stanford University
 

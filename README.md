@@ -1,5 +1,6 @@
 # COMP4471-Deep-Learning-in-Computer-Vision
 HKUST COMP4471 Deep Learning in Computer Vision - Assignment Repository  
+Credit: [CS231n](http://cs231n.stanford.edu/) at Stanford University
 
 # Assignment1
 > [Q1](assignment1/knn.ipynb): k-Nearest Neighbor classifier  

@@ -32,3 +32,19 @@ In the IPython notebook BatchNormalization.ipynb you will implement batch normal
 
 > [Q5](assignment2/PyTorch.ipynb): PyTorch / TensorFlow on CIFAR-10  
 > For this last part, you will be working in either TensorFlow or PyTorch, two popular and powerful deep learning frameworks. You only need to complete ONE of these two notebooks.
+
+# Assignment3
+> [Q1](assignment3/RNN_Captioning.ipynb): Image Captioning with Vanilla RNNs  
+> The Jupyter notebook RNN_Captioning.ipynb will walk you through the implementation of an image captioning system on MS-COCO using vanilla recurrent networks.
+
+> [Q2](assignment3/LSTM_Captioning.ipynb): Image Captioning with LSTMs  
+> The Jupyter notebook LSTM_Captioning.ipynb will walk you through the implementation of Long-Short Term Memory (LSTM) RNNs, and apply them to image captioning on MS-COCO.
+
+> [Q3](assignment3/NetworkVisualization-PyTorch.ipynb): Network Visualization: Saliency maps, Class Visualization, and Fooling Images  
+> The Jupyter notebooks NetworkVisualization-TensorFlow.ipynb /NetworkVisualization-PyTorch.ipynb will introduce the pretrained SqueezeNet model, compute gradients with respect to images, and use them to produce saliency maps and fooling images. Please complete only one of the notebooks (TensorFlow or PyTorch).
+
+> [Q4](assignment3/StyleTransfer-PyTorch.ipynb): Style Transfer   
+> In the Jupyter notebooks StyleTransfer-TensorFlow.ipynb/StyleTransfer-PyTorch.ipynb you will learn how to create images with the content of one image but the style of another. Please complete only one of the notebooks (TensorFlow or PyTorch).
+ 
+> [Q5](assignment3/GANs-PyTorch.ipynb): Generative Adversarial Networks  
+> In the Jupyter notebooks GANs-TensorFlow.ipynb/GANs-PyTorch.ipynb you will learn how to generate images that match a training dataset, and use these models to improve classifier performance when training on a large amount of unlabeled data and a small amount of labeled data. Please complete only one of the notebooks (TensorFlow or PyTorch).

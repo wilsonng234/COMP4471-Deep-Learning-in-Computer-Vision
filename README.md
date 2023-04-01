@@ -15,7 +15,7 @@ Credit: [CS231n](http://cs231n.stanford.edu/) at Stanford University
 > [Q4](assignment1/two_layer_net.ipynb): Two-Layer Neural Network  
 > The IPython Notebook two_layer_net.ipynb will walk you through the implementation of a two-layer neural network classifier.
 
-> [Q5](assignment1/features.ipynb): Two-Layer Neural Network  
+> [Q5](assignment1/features.ipynb): Higher Level Representations: Image Features   
 > The IPython Notebook features.ipynb will walk you through this exercise, in which you will examine the improvements gained by using higher-level representations as opposed to using raw pixel values.
 
 # Assignment2
